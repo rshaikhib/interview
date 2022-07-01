@@ -1,0 +1,16 @@
+{
+    "channel": {
+        "title": "News Feed",
+        "description": "description",
+        "item": {
+            "title": "Intro to Sector Investing",
+            "description": "In this lesson we want to introduce a couple of tools to improve your grasp of different industries and sectors within the economy. Also, to help you visualize what you have learned about the business cycle.",
+            "date": "Tue, 18 Jan 2022 18:12:25 -0000",
+            "player": {
+                "id": "g3zXQW-6Qd8",
+                "image": "https://img.youtube.com/vi/g3zXQW-6Qd8/mqdefault.jpg",
+                "source": "https://youtu.be/g3zXQW-6Qd8"
+            }
+        }
+    }  
+}

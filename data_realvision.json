@@ -1,0 +1,21 @@
+{
+    "title": "Securities Lending & Borrowing",
+    "description": "This course is aimed at helping investors wanting to take a short position in stocks understand what to do and where to find key information in Trader Workstation. We explain the short selling cycle and how investors can easily find out stock loan availability in the platform.",
+    "items": [
+        {
+            "id": "4h8xCn0yiJM",
+            "image": "https://tradersacademy.online/wp-content/uploads/2020/09/sec-lending-960x540.jpg",
+            "media_url": "https://youtu.be/4h8xCn0yiJM"
+        },
+        {
+            "id": "yxnQYu65Ubg",
+            "image": "https://tradersacademy.online/wp-content/uploads/2022/01/thumbs-etf-1-899x506.jpg",
+            "media_url": "https://youtu.be/yxnQYu65Ubg"
+        },
+        {
+            "id": "Xg8fu9C8cEw",
+            "image": "https://img.youtube.com/vi/P75jPhV0NzQ/mqdefault.jpg",
+            "media_url": "https://youtu.be/Xg8fu9C8cEw"
+        }
+    ]    
+}
